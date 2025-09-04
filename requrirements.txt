@@ -1,0 +1,4 @@
+requests
+pyodbc
+pandas   # optional, but often used in ETL
+urllib3
