@@ -1,0 +1,5 @@
+- [ ] Incremental loads (?since=MAX(Date))
+- [ ] Batch inserts (executemany) for speed
+- [ ] ETL audit logging table + log rows read/inserted/errors
+- [ ] Power BI dashboard screenshots in docs/
+- [ ] GitHub Actions (lint / schedule)
