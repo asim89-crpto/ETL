@@ -24,7 +24,7 @@ KPIs:
 - Daily trend line
 - Sentiment share donut chart
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](sentimentdashboad.png)
 
 ## How to Run
 1. Clone repo  
